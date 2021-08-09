@@ -9,7 +9,7 @@ Se o seu ambiente de desenvolvimento for diferente, você deve baixar:
 
  Ao abrir o projeto, pode ser que seja necessário mudar a arquitetura para x86 (caso queira usar as dependências que vieram com o projeto):
  
- ![image](https://user-images.githubusercontent.com/2465857/128771379-2442e031-8083-4807-950b-678650141c8f.png)
+![image](https://user-images.githubusercontent.com/2465857/128773364-4589fffe-57f9-4de2-acdf-7898abbaad8b.png)
 
 Se você quiser ou precisar alterar as dependências, você deve ir em Projeto -> Propriedades e alterar estes 3 lugares:
 
